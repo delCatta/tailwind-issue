@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/* run ./tailwindcss-macos-arm64 -i index.css -o built.css */
